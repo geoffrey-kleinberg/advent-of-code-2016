@@ -1,6 +1,6 @@
 require 'set'
 
-day = "00"
+day = "10"
 file_name = "12-#{day}-16/sampleIn.txt"
 # file_name = "12-#{day}-16/input.txt"
 
