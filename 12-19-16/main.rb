@@ -31,6 +31,8 @@ def part1(input)
   return current
 end
 
+
+# recursive algorithm goes too deep
 def getWinnerPosition(count)
   if count == 2
     return 0
@@ -46,8 +48,6 @@ def getWinnerPosition(count)
     return (smallWinner + 1) % count
   end
 end
-
-# 1500664 is too high
 
 def part2(input)
   count = input[0].to_i
