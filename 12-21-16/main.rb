@@ -52,8 +52,8 @@ def part1(input, string="abcdefgh")
 end
 
 def part2(input)
-  string = "fbgdceah"
-  string = "decab"
+  # string = "fbgdceah"
+  # string = "decab"
   
 
 
